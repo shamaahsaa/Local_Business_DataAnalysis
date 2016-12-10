@@ -18,7 +18,7 @@ The Local Business dataset collected from Yelp and Google APIs are dated between
 The clean data is imported into HDFS, exploratory data analysis was performed on the dataset using LOAD and DUMP in Pig to gather some initial facts about our data. For example, the Local Business data includes 2,903,217 entries having attributes such as business id, address, name, longitude, latitude, etc. The Reviews data includes 1,174,850 hive entries having attributes that included business id , user id, review id, stars, review date, and the user comments.
 ## Visualization
 ### Video
-[![Alt text for your video][(http://img.youtube.com/vi/OYQ8qrapF2Q/0.jpg)](http://www.youtube.com/watch?v=T-OYQ8qrapF2Q)
+[![Alt text for your video](http://img.youtube.com/vi/OYQ8qrapF2Q/0.jpg)](http://www.youtube.com/watch?v=T-OYQ8qrapF2Q)
 ### image1
 ![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/1.jpg "")
 ### image2
