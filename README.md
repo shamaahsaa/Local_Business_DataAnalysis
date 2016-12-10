@@ -19,22 +19,22 @@ The clean data is imported into HDFS, exploratory data analysis was performed on
 ## Visualization
 ### Video
 [![Alt text for your video](http://img.youtube.com/vi/OYQ8qrapF2Q/0.jpg)](http://www.youtube.com/watch?v=OYQ8qrapF2Q)
-### image1
+### Most popular sub categories grouped by state in US
 ![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/1.jpg "")
-### image2
+### Count of reviews for the sub-categories of the Shopping category
 ![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/2.jpg "Optional Title")
-### image3
+### Percentage of positive, neutral and negative customer reviews for the Services category
 ![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/3.jpg "Optional Title")
-### image4
+### Businesses categories grouped by city
 ![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/4.jpg "Optional Title")
-### image5
+### Maximum count of reviews made by individual users
 ![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/5.jpg "Optional Title")
-### image6
+### Sentiment Analysis based on the customer reviews 
 ![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/6.jpg "Optional Title")
 
 ## Tutorial
 Tutorial pdf file: https://csula-my.sharepoint.com/personal/rsingh26_calstatela_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=g%2faLqtF1Uqw5KqJZ6W7w%2b4AQ8mY%2f6qdDm5sMhgOztxk%3d&docid=2_1ffdc4c596d014906ac4fabbf01a82e69&rev=1
-This tutorial also available on this page.
+This tutorial also available in this GitHub.
 ## Contribution
 Local Business Data Set and its's analysis is put together by the graduate students - Hemamalini Madhanguru (hmadhan@calstatela.edu), Mahsa Tayer Farahani (mtayerf@calstatela.edu), Ruchi Singh (rsingh26@calstatela.edu), Yashaswi Ananth (yananth@calstatela.edu) from the Dept. of Computer Information Systems, California State University Los Angeles.
 
