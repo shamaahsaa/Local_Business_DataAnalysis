@@ -18,13 +18,19 @@ The Local Business dataset collected from Yelp and Google APIs are dated between
 The clean data is imported into HDFS, exploratory data analysis was performed on the dataset using LOAD and DUMP in Pig to gather some initial facts about our data. For example, the Local Business data includes 2,903,217 entries having attributes such as business id, address, name, longitude, latitude, etc. The Reviews data includes 1,174,850 hive entries having attributes that included business id , user id, review id, stars, review date, and the user comments.
 ## Visualization
 ### Video
-[![Alt text for your video](http://img.youtube.com/vi/OYQ8qrapF2Q/0.jpg)](http://www.youtube.com/watch?v=T-OYQ8qrapF2Q)
-![Alt text](Local_Business_DataAnalysis/Visualizations-Images/1.jpg?raw=true "Optional Title")
-![Alt text](Local_Business_DataAnalysis/Visualizations-Images/2.jpg?raw=true "Optional Title")
-![Alt text](Local_Business_DataAnalysis/Visualizations-Images/3.jpg?raw=true "Optional Title")
-![Alt text](Local_Business_DataAnalysis/Visualizations-Images/4.jpg?raw=true "Optional Title")
-![Alt text](Local_Business_DataAnalysis/Visualizations-Images/5.jpg?raw=true "Optional Title")
-![Alt text](Local_Business_DataAnalysis/Visualizations-Images/6.jpg?raw=true "Optional Title")
+[![Alt text for your video][(http://img.youtube.com/vi/OYQ8qrapF2Q/0.jpg)](http://www.youtube.com/watch?v=T-OYQ8qrapF2Q)
+### image1
+![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/1.jpg "")
+### image2
+![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/2.jpg "Optional Title")
+### image3
+![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/3.jpg "Optional Title")
+### image4
+![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/4.jpg "Optional Title")
+### image5
+![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/5.jpg "Optional Title")
+### image6
+![Alt text](https://github.com/shamaahsaa/Local_Business_DataAnalysis/blob/master/Visualizations-Images/6.jpg "Optional Title")
 
 ## Tutorial
 Tutorial pdf file: https://csula-my.sharepoint.com/personal/rsingh26_calstatela_edu/_layouts/15/guestaccess.aspx?guestaccesstoken=g%2faLqtF1Uqw5KqJZ6W7w%2b4AQ8mY%2f6qdDm5sMhgOztxk%3d&docid=2_1ffdc4c596d014906ac4fabbf01a82e69&rev=1
